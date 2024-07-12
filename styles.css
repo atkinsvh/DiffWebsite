@@ -1,0 +1,30 @@
+body {
+    background-color: darkblue;
+    color: white;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+}
+
+h1 {
+    color: neonpink;
+}
+
+button {
+    background-color: neonpink;
+    border: none;
+    color: darkblue;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: white;
+    color: neonpink;
+}
